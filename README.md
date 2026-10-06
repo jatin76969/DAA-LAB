@@ -8,7 +8,7 @@ The programs cover important algorithmic techniques such as **Divide and Conquer
 
 ---
 
-## 📚 Algorithms Implemented
+## Algorithms Implemented
 
 | No. | Algorithm / Problem | Technique |
 |---|---|---|
@@ -27,7 +27,7 @@ The programs cover important algorithmic techniques such as **Divide and Conquer
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Programming Language:** C
 - **Compiler:** GCC
@@ -49,7 +49,7 @@ The main objectives of this laboratory are:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Each program is maintained as a separate C source file for easy understanding and execution.
 
