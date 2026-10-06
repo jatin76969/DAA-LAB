@@ -36,7 +36,7 @@ The programs cover important algorithmic techniques such as **Divide and Conquer
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this laboratory are:
 
